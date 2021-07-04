@@ -1,5 +1,7 @@
 # desafio-capgemini-calculadora
-OBS.: infelizmente ainda não obtive conhecimento suficiente para fazer o desafio nº 2! 
+OBS.: infelizmente ainda não obtive conhecimento suficiente para fazer o desafio nº 2!
+
+
 O problema
 
 A agência Divulga Tudo precisa de um programa para gerenciar os seus anúncios online. O objetivo dos anúncios faz parte de uma campanha nas redes sociais. O sistema de gerenciamento permitirá a gestão do anúncio e o rastreio dos resultados da campanha.
